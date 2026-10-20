@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "announcements": [
+    {
+      "id": "2026-10-welcome",
+      "kind": "info",
+      "title": "Welcome to the Tiny Spark Inbox!",
+      "body": "News from the Tiny Spark team shows up here: new levels, events and important updates.",
+      "date": "2026-10-20",
+      "image": "img/welcome.png"
+    }
+  ]
+}
