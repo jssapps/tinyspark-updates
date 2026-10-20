@@ -2,6 +2,24 @@
   "schema": 1,
   "announcements": [
     {
+      "id": "2026-10-portal-pads",
+      "kind": "new_levels",
+      "title": "Portal Pads is open!",
+      "body": "40 levels where portal pairs teleport current across the board. Can you find the shortcut?",
+      "date": "2026-10-20",
+      "button": {"label": "Play now", "route": "continue"}
+    },
+    {
+      "id": "2026-10-spark-week",
+      "kind": "event",
+      "title": "Spark Week",
+      "body": "Solve the Daily Challenge every day this week and keep your streak glowing!",
+      "date": "2026-10-20",
+      "start": "2026-10-20",
+      "end": "2026-10-27",
+      "button": {"label": "Open Daily Challenge", "route": "daily"}
+    },
+    {
       "id": "2026-10-welcome",
       "kind": "info",
       "title": "Welcome to the Tiny Spark Inbox!",
